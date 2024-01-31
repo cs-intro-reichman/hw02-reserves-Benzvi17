@@ -58,7 +58,7 @@ public class OneOfEachStats {
 		} else {
 			most_com = 4;
 		}
-		System.out.println("The most common number of children is " + most_com);
+		System.out.println("The most common number of children is " + most_com + ".");
 	}
 	}
 
