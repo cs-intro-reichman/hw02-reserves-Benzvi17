@@ -20,7 +20,7 @@ public class OneOfEachStats {
 	int family_of_three = 0;
 	int family_of_four_more = 0;
 	int num_of_kids = 0;
-	for(int t = 0; t <= T; t++){
+	for(int t = 0; t < T; t++){
 		 b = 0;
 		 g = 0;
 		while (b==0 || g == 0){
