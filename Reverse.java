@@ -13,7 +13,7 @@ public class Reverse {
 			System.out.println("");
 	
 			int N = s.length();
-			int mid =((N / 2) - 1) ;
+			int mid =((N / 2)) ;
 			System.out.println("The middle character is " + s.charAt(mid) );     
 		
 	}
